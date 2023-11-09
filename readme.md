@@ -5,8 +5,8 @@
 
 
 - 👋 Hi, I’m @Iqsam-Bashir
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Frontend development
+- 🌱 I’m currently learning React
 - 💌 You can reach out to me iqsambashir@gmail.com ...
 
 <!---
