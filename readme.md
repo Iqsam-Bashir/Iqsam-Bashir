@@ -8,7 +8,7 @@
 - 👀 I’m interested in Frontend development 
 - 🌱 I’m currently learning React 😍
 - 💌 You can reach out to me iqsambashir@gmail.com ...
-- 🤝 Want to Connect?...Let's connect on LinkedIn 😛
+- 🤝 Want to Connect?...Let's connect on  😛
 
 <!---
 Iqsam-Bashir/Iqsam-Bashir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
