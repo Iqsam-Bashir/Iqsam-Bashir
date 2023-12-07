@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @Iqsam-Bashir
 - 👀 I’m interested in Frontend development 
-- 🌱 I’m currently learning Vue.js 😍
+- 🌱 I’m currently learning Vue.js 😍👩‍💻
 - 💌 You can reach out to me iqsambashir@gmail.com ...
 - 🤝 Want to Connect?...Let's connect on  😛
 
